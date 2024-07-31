@@ -2,7 +2,7 @@
 
 ![img1](https://github.com/shawakash1992/powerbi_project_on_blinkit_dataset/blob/main/photo%20of%20blinkit.jpg)
 
- Objective:-
+# Objective:-
  
   The objective of the Blinkit Dashboard project is to develop a comprehensive, user-friendly interface that consolidates key performance 
   indicators and metrics essential for the efficient management of Blinkit's operations. This dashboard aims to provide real-time insights 
